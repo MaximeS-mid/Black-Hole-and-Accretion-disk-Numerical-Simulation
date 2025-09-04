@@ -5,7 +5,7 @@
 
 A Python-based numerical simulation of a Schwarzschild black hole and its accretion disk, including photon trajectory deviation, Doppler effects, and realistic temperature distribution.
 
-![test](2048 2048 avec tous les effets et phi = 1e-3 pt2.png)
+![test](images/readme_image.png)
 
 ---
 
